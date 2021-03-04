@@ -1,0 +1,9 @@
+[submodule "Snip"]
+	path = Snip
+	url = https://github.com/dlrudie/Snip.git
+[submodule "references/Snip"]
+	path = references/Snip
+	url = https://github.com/dlrudie/Snip.git
+[submodule "references/Snaz"]
+	path = references/Snaz
+	url = https://github.com/JimmyAppelt/Snaz.git
