@@ -10,3 +10,12 @@
 [submodule "references/luamacros"]
 	path = references/luamacros
 	url = https://github.com/me2d13/luamacros.git
+[submodule "sources/Snip"]
+	path = sources/Snip
+	url = https://github.com/dlrudie/Snip.git
+[submodule "sources/Snaz"]
+	path = sources/Snaz
+	url = https://github.com/JimmyAppelt/Snaz.git
+[submodule "sources/luamacros"]
+	path = sources/luamacros
+	url = https://github.com/me2d13/luamacros.git
