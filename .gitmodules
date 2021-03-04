@@ -7,3 +7,6 @@
 [submodule "references/Snaz"]
 	path = references/Snaz
 	url = https://github.com/JimmyAppelt/Snaz.git
+[submodule "references/luamacros"]
+	path = references/luamacros
+	url = https://github.com/me2d13/luamacros.git
